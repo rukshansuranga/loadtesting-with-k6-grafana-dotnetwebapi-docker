@@ -2,10 +2,10 @@
 
 පහලින් බාවිතා කරපු technologies ටික
 
-.net 6 web api
-k6 run with docker
-grafana 
-influxdb
+.net 6 web api,
+k6 run with docker,
+grafana ,
+influxdb,
 
 මම බාවිතා කරපු tutorial පහලින් දාල තියෙනවා.
 
